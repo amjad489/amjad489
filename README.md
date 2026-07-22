@@ -17,9 +17,9 @@ they move, and quick to recover when they don't.
 | **Cloud** | AWS and Azure, run together as one hybrid estate. Landing zones, account and subscription design, VPC and VNet networking, private endpoints |
 | **Automation & IaC** | Terraform, Bicep, Ansible, PowerShell, Python. No click-ops drift |
 | **Containers** | Kubernetes on EKS and AKS, Docker, Helm, Istio |
-| **CI/CD** | Jenkins, Azure DevOps, GitHub Actions |
+| **CI/CD & DevSecOps** | Jenkins, Azure DevOps, GitHub Actions, with dependency, container image, static analysis and secret scanning wired into the pipeline |
 | **Observability & SRE** | Prometheus, Grafana, Azure Monitor, Splunk, SLOs, incident response, on-call |
-| **Security & identity** | Least-privilege IAM, Microsoft Entra ID, Okta, SAML, OIDC, MFA, Azure Policy |
+| **Security & identity** | Least-privilege IAM, Microsoft Entra ID, Okta, SAML, OIDC, MFA, Azure Policy, managed secrets over long-lived credentials, policy-as-code guardrails |
 
 ### Selected work
 
